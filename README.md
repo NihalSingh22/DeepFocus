@@ -8,8 +8,6 @@ DeepFocus is a Chrome extension designed to enhance productivity by minimizing d
   
 - **Customizable Block Lists:** Easily customize which websites are blocked and when. You decide what to block and for how long, tailoring the browsing restrictions to fit your productivity schedule.
 
-- **Scheduling:** Set specific times for the extension to activate, aligning with your work hours or times when you want to be distraction-free.
-
 - **Motivational Reminders:** When attempting to visit a blocked site, DeepFocus displays a motivational reminder to get back to work, helping to keep you on track.
 
 ## Installation
@@ -29,13 +27,12 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/DeepFocus.git
 
 # Usage
 After installation, click on the DeepFocus icon in the Chrome toolbar to open the control panel. Here, you can add or remove websites from your block list, set your focus hours, and customize the extension settings to your preferences.
+<img width="324" alt="Screen Shot 2024-03-05 at 11 26 47 PM" src="https://github.com/NihalSingh22/DeepFocus/assets/89406047/6fc06efc-8d8a-4a93-88b2-f3ff72a8720f">
 
 
 # Screenshots
 
 The DeepFocus control panel allows for quick changes and settings adjustments.
-
-<img width="324" alt="Screen Shot 2024-03-05 at 11 26 47 PM" src="https://github.com/NihalSingh22/DeepFocus/assets/89406047/6fc06efc-8d8a-4a93-88b2-f3ff72a8720f">
 
 When you try to access a blocked site, DeepFocus gives you a gentle nudge to keep your focus.
 
